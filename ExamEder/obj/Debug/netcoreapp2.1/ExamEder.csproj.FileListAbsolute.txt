@@ -1,0 +1,11 @@
+C:\ExamEder\ExamEder\ExamEder\bin\Debug\netcoreapp2.1\ExamEder.deps.json
+C:\ExamEder\ExamEder\ExamEder\bin\Debug\netcoreapp2.1\ExamEder.runtimeconfig.json
+C:\ExamEder\ExamEder\ExamEder\bin\Debug\netcoreapp2.1\ExamEder.runtimeconfig.dev.json
+C:\ExamEder\ExamEder\ExamEder\bin\Debug\netcoreapp2.1\ExamEder.dll
+C:\ExamEder\ExamEder\ExamEder\bin\Debug\netcoreapp2.1\ExamEder.pdb
+C:\ExamEder\ExamEder\ExamEder\obj\Debug\netcoreapp2.1\ExamEder.csprojAssemblyReference.cache
+C:\ExamEder\ExamEder\ExamEder\obj\Debug\netcoreapp2.1\ExamEder.csproj.CoreCompileInputs.cache
+C:\ExamEder\ExamEder\ExamEder\obj\Debug\netcoreapp2.1\ExamEder.AssemblyInfoInputs.cache
+C:\ExamEder\ExamEder\ExamEder\obj\Debug\netcoreapp2.1\ExamEder.AssemblyInfo.cs
+C:\ExamEder\ExamEder\ExamEder\obj\Debug\netcoreapp2.1\ExamEder.dll
+C:\ExamEder\ExamEder\ExamEder\obj\Debug\netcoreapp2.1\ExamEder.pdb
